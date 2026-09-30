@@ -1,0 +1,83 @@
+.carousel-image {
+    aspect-ratio: 16 / 6;
+    object-fit: cover;
+}
+
+.carousel-fade .carousel-item {
+    transition: opacity 0.8s ease-in-out;
+}
+
+.carousel-caption {
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 2rem;
+    height: 2rem;
+    background-image: none;
+    border: solid white;
+    border-width: 0 0.35rem 0.35rem 0;
+}
+
+.carousel-control-prev-icon {
+    transform: rotate(135deg);
+}
+
+.carousel-control-next-icon {
+    transform: rotate(-45deg);
+}
+
+/*Agregar bordes a la derecha de los elementos del navbar.
+        Se usa media queries para que los bordes desaparezcan al colapsar el menú*/
+@media (min-width: 992px) {
+    .navbar-nav .nav-item:not(:last-child) {
+        border-right: 1px solid rgba(255, 255, 255, 0.5);
+    }
+}
+
+#container-consolas .square-card {
+    aspect-ratio: 1 / 1;
+    position: relative;
+    overflow: hidden;
+}
+
+#container-consolas .square-card .card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#container-consolas .square-card .card-body {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#container-productos .tarjeta-producto .card-img-top {
+    height: 220px;
+    object-fit: contain;
+}
+
+#container-productos .tarjeta-producto .card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+#container-productos .product-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: auto;
+}
+
+.tarjeta-consola-shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.65) !important;
+}

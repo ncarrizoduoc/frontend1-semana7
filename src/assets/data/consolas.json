@@ -1,0 +1,56 @@
+[
+    {
+        "nombre":"Playstation 5",
+        "imagen" : {
+            "src":"assets/img/consoles/last_of_us.jpg",
+            "alt":"Imagen del juego The Last Of Us"
+        },
+        "descripcion":"Disfruta de tiempos de carga superveloces con un SSD de velocidad ultrarrápida, una experiencia más inmersiva gracias a la compatibilidad con respuesta háptica, gatillos adaptativos y audio 3D, además de una increíble colección de juegos de PlayStation.",
+        "link":"#"
+    },
+    {
+        "nombre":"XBOX Series X|S",
+        "imagen" : {
+            "src":"assets/img/consoles/halo.jpg",
+            "alt":"Imagen de videojuego Halo"
+        },
+        "descripcion":"Descubre la XBOX más rápida y más potente de la historia con la XBOX Series X|S.",
+        "link":"#"
+    },
+    {
+        "nombre":"Nintendo Switch",
+        "imagen" : {
+            "src":"assets/img/consoles/metroid_dread.jpg",
+            "alt":"Imagen de videojuego Metroid Dread"
+        },
+        "descripcion":"Juega en casa o en el camino utilizando la consola más popular de Nintendo",
+        "link":"#"
+    },
+    {
+        "nombre":"Playstation 4",
+        "imagen" : {
+            "src":"assets/img/consoles/shadow_of_the_colossus.jpg",
+            "alt":"Imagen de videojuego Shadow of the Colossus"
+        },
+        "descripcion":"Juegos increíbles y entretenimiento sin fin. La consola PS4 ofrece una potencia de juego impresionante, entretenimiento increíble y tecnología de HDR intenso.",
+        "link":"#"
+    },
+    {
+        "nombre":"XBOX One",
+        "imagen" : {
+            "src":"assets/img/consoles/forza_horizon_4.jpg",
+            "alt":"Imagen de videojuego Forza Horizon 4"
+        },
+        "descripcion":"Disfruta de juegos envolventes en 4K con XBOX One X. Da vida a tus videojuegos y disfruta 4K Blu-ray y del streaming de video 4K en la consola XBOX One X.",
+        "link":"#"
+    },
+    {
+        "nombre":"PC",
+        "imagen" : {
+            "src":"assets/img/consoles/portal.jpg",
+            "alt":"Imagen de videojuego Portal"
+        },
+        "descripcion":"Llaves de activación para las principales plataformas de videojuegos. ¡Adquiere los mejores juegos de Steam, Epic y GOG al mejor precio!",
+        "link":"#"
+    }
+]

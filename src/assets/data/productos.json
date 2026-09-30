@@ -1,0 +1,112 @@
+[
+    {
+        "sku":"000001",
+        "nombre":"Silent Hill F",
+        "imagen":{
+            "src":"assets/img/products/silent_hill_f_ps5.jpg",
+            "alt":"Portada del juego Silent Hill F para PS5"
+        },
+        "categoria":"Playstation 5",
+        "precio":59990,
+        "precio_normal":110990,
+        "descripcion":"La nueva entrega de la exitosa saga de terror Silent Hill."
+    },
+    {
+        "sku":"000002",
+        "nombre":"The Legend of Zelda: Breath of the Wild",
+        "imagen":{
+            "src":"assets/img/products/breath_of_the_wild_switch.jpg",
+            "alt":"Portada del juego The Legend of Zelda: Breath of the Wild para Nintendo Switch"
+        },
+        "categoria":"Nintendo Switch",
+        "precio":46990,
+        "precio_normal":74990,
+        "descripcion":"Ayuda a Link a explorar Hyrule para salvarlo de la perdición."
+    },
+    {
+        "sku":"000003",
+        "nombre":"Nintendo Switch",
+        "imagen":{
+            "src":"assets/img/products/consola_switch.png",
+            "alt":"Consola Nintendo Switch"
+        },
+        "categoria":"Consolas",
+        "precio":349990,
+        "precio_normal":438990,
+        "descripcion":"Juega en casa o en el camino con la consola más popular de Nintendo."
+    },
+    {
+        "sku":"000004",
+        "nombre":"Control Playstation 5",
+        "imagen":{
+            "src":"assets/img/products/control_ps5.png",
+            "alt":"Control para consola Playstation 5"
+        },
+        "categoria":"Accesorios",
+        "precio":79990,
+        "precio_normal":109990,
+        "descripcion":"Mando Dualshock para consola Playstation 5."
+    },
+    {
+        "sku":"000005",
+        "nombre":"Elden Ring",
+        "imagen":{
+            "src":"assets/img/products/elden_ring_ps5.jpg",
+            "alt":"Portada del juego Elden Ring para Playstation 5"
+        },
+        "categoria":"Playstation 5",
+        "precio":60990,
+        "precio_normal":75990,
+        "descripcion":"Lucha por convertirte en el nuevo Elden Lord en la nueva entrega de FromSoftware."
+    },
+    {
+        "sku":"000006",
+        "nombre":"Forza Horizon 6",
+        "imagen":{
+            "src":"assets/img/products/forza_horizon_6_xbox.jpg",
+            "alt":"Portada del juego Forza Horizon 6 para Xbox Series X"
+        },
+        "categoria":"Xbox Series X|S",
+        "precio":32990,
+        "precio_normal":54990,
+        "descripcion":"Disfruta frenéticas carreras solo o con amigos en el nuevo Forza Horizon."
+    },
+    {
+        "sku":"000008",
+        "nombre":"Shadow of the Colossus",
+        "imagen":{
+            "src":"assets/img/products/shadow_of_the_colossus_ps4.jpg",
+            "alt":"Portada del juego Shadow of the Colossus para Playstation 4"
+        },
+        "categoria":"Playstation 4",
+        "precio":19990,
+        "precio_normal":39990,
+        "descripcion":"Lucha contra bestias colosales en la nueva versión del clásico de PS2."
+    },
+    {
+        "sku":"000009",
+        "nombre":"Spider-Man 2",
+        "imagen":{
+            "src":"assets/img/products/spiderman_2_ps5.jpg",
+            "alt":"Portada del juego Spider-Man 2 para Playstation 5"
+        },
+        "categoria":"Playstation 5",
+        "precio":49990,
+        "precio_normal":89990,
+        "descripcion":"Toma nuevamente el control del arácnido en la secuela del exitoso juego de Insomniac."
+    },
+    {
+        "sku":"000010",
+        "nombre":"Super Smash Bros Ultimate",
+        "imagen":{
+            "src":"assets/img/products/super_smash_bros_ultimate_switch.jpg",
+            "alt":"Portada del juego Super Smash Bros Ultimate para Nintendo Switch"
+        },
+        "categoria":"Nintendo Switch",
+        "precio":40990,
+        "precio_normal":55990,
+        "descripcion":"Los mejores personajes de Nintendo se enfrentan en divertidos combates."
+    }
+
+
+]
