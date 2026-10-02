@@ -1,7 +1,4 @@
 import { useEffect, useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
 import './style.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
@@ -16,7 +13,7 @@ function loadCart() {
   try{
     const carrito_productos = JSON.parse(localStorage.getItem(STORAGE_KEY));
     return Array.isArray(carrito_productos) ? carrito_productos : [];
-  } catch(error){
+  } catch {
     return [];
   };
 }

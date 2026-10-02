@@ -6,9 +6,7 @@ function CarritoCard({ item, removeFromCart }) {
         itemId: id,
         nombre,
         categoria,
-        precio,
-        precio_normal,
-        descripcion,
+        precio
     } = item;
 
     const { src: imagen_src, alt: imagen_alt } = item.imagen;
